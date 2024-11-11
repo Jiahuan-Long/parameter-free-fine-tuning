@@ -1,1 +1,4 @@
 This project is for validating the effectiveness of our parameter-free fine-tuning. More search and training code will be released to the public after peer reviews.
+
+1. provide BUSI datasets 
+2. testing the channel replacement 
